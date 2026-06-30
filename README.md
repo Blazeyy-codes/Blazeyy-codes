@@ -30,11 +30,7 @@
 
 **Baibhav Shrestha** · `blaze.exe` · Student Entrepreneur / Founder
 
-Working at the intersection of **civic-tech**, **product design**, and **execution over pitch decks**
-
-🛠️ Building **eSahara** — verified fundraising & volunteer coordination for Nepal &nbsp;|&nbsp; 📸 Building **Dear Memory** — immersive digital memory experiences (B2C + B2B) &nbsp;|&nbsp; 📈 Marketing Director @ an international youth organization
-
-*concrete &gt; abstract. founder voice &gt; grant-writer voice. ship it.*
+Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
 
 </div>
 
