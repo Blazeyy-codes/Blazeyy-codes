@@ -28,13 +28,9 @@
 
 <div align="center">
 
-**Baibhav Shrestha** · `blaze.exe` · Student Entrepreneur / Founder
+**Baibhav Shrestha** · `blazeyy.exe` · Founder
 
 Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
-
-🛠️ Building **eSahara** — verified fundraising & volunteer coordination for Nepal &nbsp;|&nbsp; 📸 Building **Dear Memory** — immersive digital memory experiences (B2C + B2B) &nbsp;|&nbsp; 📈 Marketing Director @ an international youth organization
-
-*concrete &gt; abstract. founder voice &gt; grant-writer voice. ship it.*
 
 </div>
 
@@ -44,7 +40,7 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
-## 🧬 SYSTEMS I'M RUNNING
+## 🗂️ Projects Built
 
 <table>
 <tr>
@@ -53,7 +49,7 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 ### <img src="https://img.shields.io/badge/eSahara-00D9FF?style=for-the-badge&logoColor=0A0E27" />
 **Civic-Tech Infrastructure for Nepal**
 
-Trust is the bottleneck in giving — donors don't know if their money reaches anyone real, NGOs struggle to prove impact, and volunteers can't find verified places to show up. eSahara is the connective layer: identity verification, skill-based volunteer matching, geo-alerts for emergency response, and full lifecycle traceability from donation to delivered impact.
+A verified fundraising and volunteer platform connecting donors, organizations, and communities through transparent impact tracking, identity verification, and emergency response tools.
 
 `identity-verification` `volunteer-matching` `geo-alerts` `impact-tracking`
 
@@ -62,10 +58,10 @@ Trust is the bottleneck in giving — donors don't know if their money reaches a
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Dear%20Memory-B967FF?style=for-the-badge&logoColor=0A0E27" />
+### <img src="https://img.shields.io/badge/Dear%20Memory-B967FF?style=for-the-badge&logoColor=F97171" />
 **Memories Shouldn't Live in a Camera Roll**
 
-Photo delivery is broken — studios dump hundreds of flat files on clients, and the moments inside them get buried within a week. Dear Memory turns photo delivery into an immersive digital memory experience, for individuals and as a B2B tool for photography studios, powered by AI face detection and album curation.
+An AI-powered memory platform that transforms photo galleries into immersive experiences for families, creators, and photography studios.
 
 `react` `typescript` `ai-face-detection` `b2b-studio-portal`
 
@@ -74,10 +70,10 @@ Photo delivery is broken — studios dump hundreds of flat files on clients, and
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Wedding%20Memory%20Experience-FFB000?style=for-the-badge&logoColor=0A0E27" />
+### <img src="https://img.shields.io/badge/Collaborative%20text%20Editor-FFB000?style=for-the-badge&logoColor=0A0E27" />
 **A Single Page, A Full Emotional Arc**
 
-A 9-section wedding memory site built around one idea — a wedding isn't a gallery, it's a story. Engineered a true JS masonry layout with greedy bin-packing for column balancing, structured around an emotional arc: Anticipation → Joy → Celebration → Nostalgia.
+A Google Docs–style collaborative editor built with CRDTs, supporting rich-text editing, autosave, multiple workspaces and real-time collaboration
 
 `react` `typescript` `js-masonry` `motion-design`
 
@@ -87,7 +83,7 @@ A 9-section wedding memory site built around one idea — a wedding isn't a gall
 ### <img src="https://img.shields.io/badge/Open%20To%20Building-FF4D8D?style=for-the-badge&logoColor=0A0E27" />
 **What's Next**
 
-Always shipping something at the intersection of civic-tech, product, and design. If you're building something that needs both execution and craft — let's talk.
+Always excited to design and build cool products. If you're building something that needs both execution and craft — let's talk.
 
 `open-source` `collaboration` `civic-tech` `product-design`
 
@@ -112,16 +108,16 @@ Always shipping something at the intersection of civic-tech, product, and design
 ## 📡 LIVE TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blazeyy-codes&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeyy-codes&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Blazeyy-exe&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeyy-exe&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeyy-codes&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://metrics.lecoq.io/Blazeyy-codes?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
+<img src="https://metrics.lecoq.io/Blazeyy-exe?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
 </div>
 
 <div align="center">
@@ -145,10 +141,12 @@ Always shipping something at the intersection of civic-tech, product, and design
 
 <div align="center">
 
-```yaml
-status: "if you're building civic-tech, product, or anything that needs craft — let's talk"
-contact: "baibhavstha77@gmail.com"
-```
+<div align="center">
+
+
+
+### Let's build something meaningful.
+📫 **baibhavstha77@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F3460,100:0A0E27&height=150&section=footer"/>
 
