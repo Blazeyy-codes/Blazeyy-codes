@@ -17,13 +17,8 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baibhavshrestha/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="34"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:baibhavstha77@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="34"/>
-  </a>
+  <a href="https://www.linkedin.com/in/baibhavshrestha/"><img src="https://skillicons.dev/icons?i=linkedin" height="34" /></a>
+  <a href="mailto:baibhavstha77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="34" /></a>
 </p>
 
 <div align="center">
@@ -102,10 +97,6 @@ Always excited to design and build cool products. If you're building something t
 
 ## 📡 STATISTICS
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=blazeyy-exe&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeyy-exe&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%" />
