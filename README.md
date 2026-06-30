@@ -1,16 +1,166 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Blazeyy-codes/Blazeyy-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=220&section=header&text=BLAZE.EXE&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20outlive%20the%20pitch%20deck&descAlignY=55&descSize=18&descColor=7DF9FF" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/Blazeyy-codes">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=60&lines=%3E+student+entrepreneur+%2F%2F+founder;%3E+building+eSahara+%E2%80%94+civic-tech+for+Nepal;%3E+building+Dear+Memory+%E2%80%94+memory+%2B+AI;%3E+based+in+Kathmandu+%2F+shipping+from+the+terminal" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0E27" />
+  <a href="https://www.linkedin.com/in/baibhavshrestha/"><img src="https://img.shields.io/badge/-baibhavshrestha-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0E27" /></a>
+  <a href="mailto:baibhavstha77@gmail.com"><img src="https://img.shields.io/badge/-baibhavstha77%40gmail.com-0A0E27?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=0A0E27" /></a>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFFF?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/LOCATION-NEPAL-7DF9FF?style=for-the-badge&labelColor=0A0E27" />
+</div>
+
+<br/>
+
+```yaml
+identity:
+  name: "Baibhav Shrestha"
+  handle: "blaze.exe"
+  role: "Student Entrepreneur / Founder"
+  focus: ["civic-tech", "product design", "execution over pitch decks"]
+  currently:
+    - "🛠️  Building eSahara — verified fundraising & volunteer coordination for Nepal"
+    - "📸  Building Dear Memory — immersive digital memory experiences (B2C + B2B)"
+    - "📈  Marketing Director @ an international youth organization"
+  believes: "concrete > abstract. founder voice > grant-writer voice. ship it."
+```
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+</div>
+
+## 🧬 SYSTEMS I'M RUNNING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟦 eSahara
+**Civic-Tech Infrastructure for Nepal**
+
+Trust is the bottleneck in giving — donors don't know if their money reaches anyone real, NGOs struggle to prove impact, and volunteers can't find verified places to show up. eSahara is the connective layer: identity verification, skill-based volunteer matching, geo-alerts for emergency response, and full lifecycle traceability from donation to delivered impact.
+
+`identity-verification` `volunteer-matching` `geo-alerts` `impact-tracking`
+
+🏆 Top 60 Global Innovation — UN STI Forum 2026
+
+</td>
+<td width="50%" valign="top">
+
+### 🟪 Dear Memory
+**Memories Shouldn't Live in a Camera Roll**
+
+Photo delivery is broken — studios dump hundreds of flat files on clients, and the moments inside them get buried within a week. Dear Memory turns photo delivery into an immersive digital memory experience, for individuals and as a B2B tool for photography studios, powered by AI face detection and album curation.
+
+`react` `typescript` `ai-face-detection` `b2b-studio-portal`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟦 Wedding Memory Experience
+**A Single Page, A Full Emotional Arc**
+
+A 9-section wedding memory site built around one idea — a wedding isn't a gallery, it's a story. Engineered a true JS masonry layout with greedy bin-packing for column balancing, structured around an emotional arc: Anticipation → Joy → Celebration → Nostalgia.
+
+`react` `typescript` `js-masonry` `motion-design`
+
+</td>
+<td width="50%" valign="top">
+
+### 🟪 Open To Building
+**What's Next**
+
+Always shipping something at the intersection of civic-tech, product, and design. If you're building something that needs both execution and craft — let's talk.
+
+`open-source` `collaboration` `civic-tech` `product-design`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+</div>
+
+## ⚙️ STACK
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+</div>
+
+## 📡 LIVE TELEMETRY
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Blazeyy-codes&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeyy-codes&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeyy-codes&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blazeyy-codes&theme=tokyo-night&bg_color=0A0E27&color=00FFFF&line=00F0FF&point=C9F9FF&area=true&hide_border=false" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Blazeyy-codes&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+</div>
+
+## 🐍 CONTRIBUTION GRID :: SNAKE PROTOCOL
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeyy-codes/Blazeyy-codes/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Blazeyy-codes/Blazeyy-codes/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+</div>
+
+<div align="center">
+
+```yaml
+status: "if you're building civic-tech, product, or anything that needs craft — let's talk"
+contact: "baibhavstha77@gmail.com"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F3460,100:0A0E27&height=150&section=footer"/>
+
+</div>
