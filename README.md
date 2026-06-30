@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baibhavshrestha/">
-    <img src="https://img.shields.io/badge/-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27" height="32"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:baibhavstha77@gmail.com">
-    <img src="https://img.shields.io/badge/-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0A0E27" height="32"/>
   </a>
 </p>
 
@@ -31,6 +31,10 @@
 **Baibhav Shrestha** · `blaze.exe` · Student Entrepreneur / Founder
 
 Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
+
+🛠️ Building **eSahara** — verified fundraising & volunteer coordination for Nepal &nbsp;|&nbsp; 📸 Building **Dear Memory** — immersive digital memory experiences (B2C + B2B) &nbsp;|&nbsp; 📈 Marketing Director @ an international youth organization
+
+*concrete &gt; abstract. founder voice &gt; grant-writer voice. ship it.*
 
 </div>
 
