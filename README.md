@@ -33,7 +33,7 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
-## 🗂️ Projects Built
+## 🗂️ PROJECTS
 
 <table>
 <tr>
