@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=220&section=header&text=BLAZE.EXE&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20outlive%20the%20pitch%20deck&descAlignY=55&descSize=18&descColor=7DF9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=220&section=header&text=BAIBHAV.SHRESTHA&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20outlive%20the%20pitch%20deck&descAlignY=55&descSize=18&descColor=7DF9FF" width="100%"/>
 
 <a href="https://github.com/blazeyy-exe">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=60&lines=%3E+Founder;%3E+Designer;%3E+Learner;%3E+Developer" alt="Typing SVG" />
@@ -9,9 +9,7 @@
 
 <div align="center">
 
-**Baibhav Shrestha** · `blazeyy.exe` · Founder
-
-Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
+Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. <br/> Currently working on startups focused on technology, social impact and innovation.
 
 </div>
 
