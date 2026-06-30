@@ -18,11 +18,11 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baibhavshrestha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="34"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:baibhavstha77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="34"/>
   </a>
 </p>
 
@@ -89,9 +89,6 @@ Always excited to design and build cool products. If you're building something t
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
-</div>
 
 ## ⚙️ STACK
 
@@ -103,7 +100,7 @@ Always excited to design and build cool products. If you're building something t
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
-## 📡 LIVE TELEMETRY
+## 📡 STATISTICS
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=blazeyy-exe&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
@@ -111,11 +108,7 @@ Always excited to design and build cool products. If you're building something t
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
-</div>
-
-<div align="center">
-<img src="https://metrics.lecoq.io/blazeyy-exe?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%" />
 </div>
 
 <div align="center">
