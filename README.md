@@ -44,7 +44,7 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 
 A verified fundraising and volunteer platform connecting donors, organizations, and communities through transparent impact tracking, identity verification, and emergency response tools.
 
-`identity-verification` `volunteer-matching` `geo-alerts` `impact-tracking`
+`civic-tech` `fundraising` `volunteer-platform` `impact-tracking`
 
 🏆 Top 60 Global Innovation — UN STI Forum 2026
 
@@ -56,7 +56,7 @@ A verified fundraising and volunteer platform connecting donors, organizations, 
 
 An AI-powered memory platform that transforms photo galleries into immersive experiences for families, creators, and photography studios.
 
-`react` `typescript` `ai-face-detection` `b2b-studio-portal`
+`ai` `photo-platform` `b2b` `saas`
 
 </td>
 </tr>
@@ -64,11 +64,11 @@ An AI-powered memory platform that transforms photo galleries into immersive exp
 <td width="50%" valign="top">
 
 ### <img src="https://img.shields.io/badge/Collaborative%20text%20Editor-FFB000?style=for-the-badge&logoColor=0A0E27" />
-**A Single Page, A Full Emotional Arc**
+**Real-Time Collaborative Editing**
 
 A Google Docs–style collaborative editor built with CRDTs, supporting rich-text editing, autosave, multiple workspaces and real-time collaboration
 
-`react` `typescript` `js-masonry` `motion-design`
+`real-time` `collaboration` `rich-text` `crdt`
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +78,7 @@ A Google Docs–style collaborative editor built with CRDTs, supporting rich-tex
 
 Always excited to design and build cool products. If you're building something that needs both execution and craft — let's talk.
 
-`open-source` `collaboration` `civic-tech` `product-design`
+`startups` `collaboration` `open-source` `product-design`
 
 </td>
 </tr>
