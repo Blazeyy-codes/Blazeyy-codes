@@ -18,18 +18,18 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baibhavshrestha/">
-    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:baibhavstha77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0A0E27" height="32"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFFF?style=for-the-badge&labelColor=0A0E27" />
   <img src="https://img.shields.io/badge/LOCATION-NEPAL-7DF9FF?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://komarev.com/ghpvc/?username=blazeyy-exe&style=for-the-badge&color=00FFFF&labelColor=0A0E27&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=blazeyy-exe&style=for-the-badge&color=0A0E27&labelColor=0A0E27&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ Building products that matter. Web developer, entrepreneur and lifelong learner 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/eSahara-00D9FF?style=for-the-badge&logoColor=0A0E27" />
+### <img src="https://img.shields.io/badge/eSahara-2DBA22?style=for-the-badge&logoColor=0A0E27" />
 **Civic-Tech Infrastructure for Nepal**
 
 A verified fundraising and volunteer platform connecting donors, organizations, and communities through transparent impact tracking, identity verification, and emergency response tools.
@@ -56,7 +56,7 @@ A verified fundraising and volunteer platform connecting donors, organizations, 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Dear%20Memory-B967FF?style=for-the-badge&logoColor=F97171" />
+### <img src="https://img.shields.io/badge/Dear%20Memory-F97171?style=for-the-badge&logoColor=0A0E27" />
 **Memories Shouldn't Live in a Camera Roll**
 
 An AI-powered memory platform that transforms photo galleries into immersive experiences for families, creators, and photography studios.
@@ -78,7 +78,7 @@ A Google Docs–style collaborative editor built with CRDTs, supporting rich-tex
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Open%20To%20Building-FF4D8D?style=for-the-badge&logoColor=0A0E27" />
+### <img src="https://img.shields.io/badge/Open%20To%20Building-00D9FF?style=for-the-badge&logoColor=0A0E27" />
 **What's Next**
 
 Always excited to design and build cool products. If you're building something that needs both execution and craft — let's talk.
