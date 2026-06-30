@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFFF?style=for-the-badge&labelColor=0A0E27" />
   <img src="https://img.shields.io/badge/LOCATION-NEPAL-7DF9FF?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://komarev.com/ghpvc/?username=Blazeyy-codes&style=for-the-badge&color=00F0FF&labelColor=0A0E27&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -37,7 +38,7 @@ identity:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
 ## 🧬 SYSTEMS I'M RUNNING
@@ -92,28 +93,17 @@ Always shipping something at the intersection of civic-tech, product, and design
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
 ## ⚙️ STACK
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,html,css,tailwind,figma,git,github,vscode&theme=dark" />
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
 ## 📡 LIVE TELEMETRY
@@ -128,15 +118,11 @@ Always shipping something at the intersection of civic-tech, product, and design
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blazeyy-codes&theme=tokyo-night&bg_color=0A0E27&color=00FFFF&line=00F0FF&point=C9F9FF&area=true&hide_border=false" width="95%"/>
+<img src="https://metrics.lecoq.io/Blazeyy-codes?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Blazeyy-codes&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
 ## 🐍 CONTRIBUTION GRID :: SNAKE PROTOCOL
@@ -151,7 +137,7 @@ Always shipping something at the intersection of civic-tech, product, and design
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=2&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
 <div align="center">
