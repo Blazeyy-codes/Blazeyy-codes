@@ -22,18 +22,25 @@
 
 <br/>
 
-```yaml
-identity:
-  name: "Baibhav Shrestha"
-  handle: "blaze.exe"
-  role: "Student Entrepreneur / Founder"
-  focus: ["civic-tech", "product design", "execution over pitch decks"]
-  currently:
-    - "🛠️  Building eSahara — verified fundraising & volunteer coordination for Nepal"
-    - "📸  Building Dear Memory — immersive digital memory experiences (B2C + B2B)"
-    - "📈  Marketing Director @ an international youth organization"
-  believes: "concrete > abstract. founder voice > grant-writer voice. ship it."
-```
+<div align="center">
+
+**Baibhav Shrestha** · `blaze.exe` · Student Entrepreneur / Founder
+
+Working at the intersection of **civic-tech**, **product design**, and **execution over pitch decks**
+
+<br/>
+
+🛠️&nbsp; Building **eSahara** — verified fundraising & volunteer coordination for Nepal
+<br/>
+📸&nbsp; Building **Dear Memory** — immersive digital memory experiences (B2C + B2B)
+<br/>
+📈&nbsp; Marketing Director @ an international youth organization
+
+<br/>
+
+*concrete &gt; abstract. founder voice &gt; grant-writer voice. ship it.*
+
+</div>
 
 <br/>
 
