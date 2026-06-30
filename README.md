@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=60&lines=%3E+Founder;%3E+Designer;%3E+Learner;%3E+Developer" alt="Typing SVG" />
 </a>
 
+
+<div align="center">
+
+**Baibhav Shrestha** · `blazeyy.exe` · Founder
+
+Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
+
+</div>
+
+
 </div>
 
 <p align="center">
@@ -21,17 +31,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFFF?style=for-the-badge&labelColor=0A0E27" />
   <img src="https://img.shields.io/badge/LOCATION-NEPAL-7DF9FF?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://komarev.com/ghpvc/?username=blazeyy-exe&style=for-the-badge&color=00F0FF&labelColor=0A0E27&label=PROFILE+VIEWS" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Baibhav Shrestha** · `blazeyy.exe` · Founder
-
-Building products that matter. Web developer, entrepreneur and lifelong learner from Nepal. Currently working on startups focused on technology, social impact and innovation.
-
+  <img src="https://komarev.com/ghpvc/?username=blazeyy-exe&style=for-the-badge&color=00FFFF&labelColor=0A0E27&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -124,7 +124,7 @@ Always excited to design and build cool products. If you're building something t
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
 </div>
 
-## 🐍 CONTRIBUTION GRID :: SNAKE PROTOCOL
+## 🌟 CONTRIBUTION GRID
 
 <div align="center">
 
