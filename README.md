@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3460,100:00D9FF&height=220&section=header&text=BLAZE.EXE&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20outlive%20the%20pitch%20deck&descAlignY=55&descSize=18&descColor=7DF9FF" width="100%"/>
 
-<a href="https://github.com/Blazeyy-codes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=60&lines=%3E+student+entrepreneur+%2F%2F+founder;%3E+building+eSahara+%E2%80%94+civic-tech+for+Nepal;%3E+building+Dear+Memory+%E2%80%94+memory+%2B+AI;%3E+based+in+Kathmandu+%2F+shipping+from+the+terminal" alt="Typing SVG" />
+<a href="https://github.com/blazeyy-exe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=60&lines=%3E+Founder;%3E+Designer;%3E+Learner;%3E+Developer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFFF?style=for-the-badge&labelColor=0A0E27" />
   <img src="https://img.shields.io/badge/LOCATION-NEPAL-7DF9FF?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://komarev.com/ghpvc/?username=Blazeyy-codes&style=for-the-badge&color=00F0FF&labelColor=0A0E27&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=blazeyy-exe&style=for-the-badge&color=00F0FF&labelColor=0A0E27&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -108,16 +108,16 @@ Always excited to design and build cool products. If you're building something t
 ## 📡 LIVE TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blazeyy-exe&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeyy-exe&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blazeyy-exe&show_icons=true&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&icon_color=7DF9FF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeyy-exe&layout=compact&theme=tokyonight&bg_color=0A0E27&title_color=00FFFF&text_color=C9F9FF&border_color=00F0FF&hide_border=false&langs_count=8" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blazeyy-exe&theme=tokyonight&background=0A0E27&ring=00FFFF&fire=00F0FF&currStreakLabel=00FFFF&sideLabels=7DF9FF&dates=7DF9FF&border=00F0FF&hide_border=false" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://metrics.lecoq.io/Blazeyy-exe?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
+<img src="https://metrics.lecoq.io/blazeyy-exe?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKathmandu&activity.limit=4&activity.days=14&config.display=large&plugin_languages=1&plugin_languages.limit=8&plugin_languages.analysis.timezone=Asia%2FKathmandu&config.theme=dark_dimmed" width="95%"/>
 </div>
 
 <div align="center">
@@ -129,8 +129,8 @@ Always excited to design and build cool products. If you're building something t
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeyy-codes/Blazeyy-codes/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Blazeyy-codes/Blazeyy-codes/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blazeyy-exe/blazeyy-exe/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/blazeyy-exe/blazeyy-exe/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
