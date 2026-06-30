@@ -9,9 +9,13 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0E27" />
-  <a href="https://www.linkedin.com/in/baibhavshrestha/"><img src="https://img.shields.io/badge/-baibhavshrestha-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0E27" /></a>
-  <a href="mailto:baibhavstha77@gmail.com"><img src="https://img.shields.io/badge/-baibhavstha77%40gmail.com-0A0E27?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=0A0E27" /></a>
+  <a href="https://www.linkedin.com/in/baibhavshrestha/">
+    <img src="https://img.shields.io/badge/-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
+  </a>
+  &nbsp;
+  <a href="mailto:baibhavstha77@gmail.com">
+    <img src="https://img.shields.io/badge/-0A0E27?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
+  </a>
 </p>
 
 <div align="center">
@@ -28,15 +32,7 @@
 
 Working at the intersection of **civic-tech**, **product design**, and **execution over pitch decks**
 
-<br/>
-
-🛠️&nbsp; Building **eSahara** — verified fundraising & volunteer coordination for Nepal
-<br/>
-📸&nbsp; Building **Dear Memory** — immersive digital memory experiences (B2C + B2B)
-<br/>
-📈&nbsp; Marketing Director @ an international youth organization
-
-<br/>
+🛠️ Building **eSahara** — verified fundraising & volunteer coordination for Nepal &nbsp;|&nbsp; 📸 Building **Dear Memory** — immersive digital memory experiences (B2C + B2B) &nbsp;|&nbsp; 📈 Marketing Director @ an international youth organization
 
 *concrete &gt; abstract. founder voice &gt; grant-writer voice. ship it.*
 
@@ -54,7 +50,7 @@ Working at the intersection of **civic-tech**, **product design**, and **executi
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 eSahara
+### <img src="https://img.shields.io/badge/eSahara-00D9FF?style=for-the-badge&logoColor=0A0E27" />
 **Civic-Tech Infrastructure for Nepal**
 
 Trust is the bottleneck in giving — donors don't know if their money reaches anyone real, NGOs struggle to prove impact, and volunteers can't find verified places to show up. eSahara is the connective layer: identity verification, skill-based volunteer matching, geo-alerts for emergency response, and full lifecycle traceability from donation to delivered impact.
@@ -66,7 +62,7 @@ Trust is the bottleneck in giving — donors don't know if their money reaches a
 </td>
 <td width="50%" valign="top">
 
-### 🟪 Dear Memory
+### <img src="https://img.shields.io/badge/Dear%20Memory-B967FF?style=for-the-badge&logoColor=0A0E27" />
 **Memories Shouldn't Live in a Camera Roll**
 
 Photo delivery is broken — studios dump hundreds of flat files on clients, and the moments inside them get buried within a week. Dear Memory turns photo delivery into an immersive digital memory experience, for individuals and as a B2B tool for photography studios, powered by AI face detection and album curation.
@@ -78,7 +74,7 @@ Photo delivery is broken — studios dump hundreds of flat files on clients, and
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 Wedding Memory Experience
+### <img src="https://img.shields.io/badge/Wedding%20Memory%20Experience-FFB000?style=for-the-badge&logoColor=0A0E27" />
 **A Single Page, A Full Emotional Arc**
 
 A 9-section wedding memory site built around one idea — a wedding isn't a gallery, it's a story. Engineered a true JS masonry layout with greedy bin-packing for column balancing, structured around an emotional arc: Anticipation → Joy → Celebration → Nostalgia.
@@ -88,7 +84,7 @@ A 9-section wedding memory site built around one idea — a wedding isn't a gall
 </td>
 <td width="50%" valign="top">
 
-### 🟪 Open To Building
+### <img src="https://img.shields.io/badge/Open%20To%20Building-FF4D8D?style=for-the-badge&logoColor=0A0E27" />
 **What's Next**
 
 Always shipping something at the intersection of civic-tech, product, and design. If you're building something that needs both execution and craft — let's talk.
